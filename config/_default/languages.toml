@@ -1,0 +1,7 @@
+
+[ko]
+  title = "다은이 소식"
+  languageName = "한국어"
+  weight = 1
+  languagedir = "ltr"
+  contentdir = "content/ko"

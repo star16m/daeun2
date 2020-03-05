@@ -1,0 +1,38 @@
+[[main]]
+  identifier = "about"
+  name = "다은이는"
+  url = "about"
+  weight = 1
+
+[[main]]
+  identifier = "archive"
+  name = "아카이브"
+  url = "archive"
+  weight = 2
+
+[[main]]
+  identifier = "gallery"
+  name = "갤러리"
+  url = "gallery"
+  weight = 3
+    
+[[main]]
+  parent = "gallery"
+  name = "50일사진"
+  url = "gallery/50"
+
+[[main]]
+  parent = "gallery"
+  name = "100일사진"
+  url = "gallery/100"
+
+[[main]]
+  parent = "gallery"
+  name = "돌사진"
+  url = "gallery/oneyear"
+
+[[main]]
+  identifier = "posts"
+  name = "포스트"
+  url = "posts"
+  weight = 4
