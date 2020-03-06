@@ -2,6 +2,7 @@
 title: "50일 사진들"
 date: 2019-07-13T13:36:21+09:00
 draft: false
+description: 다은이 50일 사진 입니다
 images:
   - image: 1.png
     caption: 1
