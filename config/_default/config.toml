@@ -1,6 +1,8 @@
-baseURL = "http://example.org"
+baseURL = "https://daeun2.onrender.com"
 title = "다은이 소식"
 theme = "zzo"
+publishDir = "docs"
+canonifyurls = true
 
 defaultContentLanguage = "ko"
 defaultContentLanguageInSubdir = true
