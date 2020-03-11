@@ -6,7 +6,7 @@
 
 [[main]]
   identifier = "archive"
-  name = "아카이브"
+  name = "지난이야기"
   url = "archive"
   weight = 2
 
@@ -33,6 +33,6 @@
 
 [[main]]
   identifier = "posts"
-  name = "포스트"
+  name = "다은이 소식"
   url = "posts"
   weight = 4

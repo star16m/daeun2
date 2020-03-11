@@ -6,9 +6,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - 다은이
+      - 다은이 소식지입니다~ :)
     subtitle:
-      - 최근소식
+      - 
     titleColor: 
     titleShadow: true
     titleFontSize: 44
